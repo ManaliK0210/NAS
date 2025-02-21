@@ -2,10 +2,13 @@
 Neural Architecture Search (NAS) on MNIST Dataset
 
 This code implements Neural Architecture Search (NAS) using Evolutionary Algorithms and Random Search to optimize deep learning models for MNIST digit classification.
+
 FeaturesDataset: Uses the MNIST dataset (handwritten digits 0-9).
+
 Search Methods:
 Evolutionary Algorithm: Uses selection, crossover, and mutation to evolve model architectures.
 Random Search: Randomly samples hyperparameters and selects the best model.
+
 Model Architectures:
 Fully Connected (Dense) Networks
 Convolutional Neural Networks (CNNs)
