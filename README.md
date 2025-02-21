@@ -14,7 +14,9 @@ Model Architectures: Fully Connected (Dense) layers, Convolutional Neural Networ
 Hyperparameter Optimization: Number of layers, Layer sizes (32, 64, 128 units), Activation functions (ReLU, Tanh), Optimizers (Adam, SGD), Batch size and epochs
 
 How It Works
+
 Evolutionary NAS: Generates an initial population of random models.Evaluates each model based on validation accuracy. Selects the best models and creates a new generation using crossover and mutation.
+
 Random Search NAS: Randomly samples hyperparameters from a predefined search space. Trains and evaluates each model. Selects the best-performing model.
 
 Ensure you have the following dependencies installed:
