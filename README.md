@@ -7,7 +7,7 @@ Neural Architecture Search automates deep learning model design, saving time and
 
 Dataset: MNIST dataset (handwritten digits 0-9).
 
-Ensure you have the following dependencies installed:
+Ensure you have the following dependencies installed on Python 3.9.7:
 tensorflow: 2.16.1, numpy: 1.26.4, scikit-learn: 1.1.2, keras: 3.1.1
 
 
